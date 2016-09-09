@@ -5,7 +5,7 @@ Table 1.
 |A	|B	|C	|
 |:---|:---|:---|
 |D	|E	|F|
-|Short column|Yet another short column|And here we should have a column with **lots and lots of text**, so much indeed that it would break the bounds.
+|Short column|Yet another short column|And here we should have a column with **lots and lots of text**, so much indeed that it would break the bounds.<br/>
 That much even that there will be multiple lines.
 
 Multiple paragraphs!
