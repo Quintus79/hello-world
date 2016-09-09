@@ -10,6 +10,7 @@ That much even that there will be multiple lines.
 
 Multiple paragraphs!
 The text needs to be formattable, *emphasised*, made **bold**, it all needs to work flawlessly.|
+|:---|:---|:---|
 | |Let's put another subheading|And here's one more big column. I really, really don't want to bring any "Lorem ipsum" text, as I hate bad Latin. Latin should be used as Latin, not as some mock language, like High Gothic, if you get my meaning.|
 
 
