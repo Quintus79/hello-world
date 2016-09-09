@@ -1,0 +1,1 @@
+No to sprawdzamy.Tabelka 1.|A	|B	|C	||----|----|----||D	|E	|F|
